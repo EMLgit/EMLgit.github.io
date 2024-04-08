@@ -5,6 +5,6 @@
 
 
 * [Website](https://elizabethlombardi.weebly.com/)
-* GitHub
-* Twitter
-* Email
+* [GitHub](https://github.com/EMLgit)
+* [Twitter](https://twitter.com/EcoPlantViruses)
+
